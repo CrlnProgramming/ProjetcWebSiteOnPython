@@ -21,7 +21,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
-    'base',
+    'base', #link on page (home.html and word.html)
 ]
 
 MIDDLEWARE = [
