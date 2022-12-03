@@ -6,4 +6,8 @@ SinglePage on Django FreameWork
 * Backend Django Python
 * SQLite 
 
+how run:
+py -m pip install Django
+manage.py makemigrations
+manage.py runserver
 License: wtfpl
